@@ -17,3 +17,13 @@ h3{
   color:#FFD71A;
   font-size: 30px;
 }
+.boton-iniciar{
+  padding: 2rem;
+  margin-top: 2rem;
+  background-color: #F54927;
+  color: #FFD71A;
+}
+.boton-iniciar:hover{
+  background-color: #FFD71A ;
+  color:#3A3FDF;
+}

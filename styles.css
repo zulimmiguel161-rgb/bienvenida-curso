@@ -44,7 +44,12 @@ button{
   border: none;
   cursor: pointer;
 }
+a{
+  text-decoration: none;
+  font-size: 1.5rem;
+}
 .boton-1{
+  padding: 2rem 4rem;
   background-color: #FFD71A;
   color: #3A3FDF;
 }
@@ -53,6 +58,7 @@ button{
   color:#FFD71A;
 }
 .boton-2{
+  padding: 2rem;
   background-color: #F54927;
   color: #FFD71A;
 }
